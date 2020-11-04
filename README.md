@@ -7,4 +7,5 @@ Student score prediction based on their study hours using Simple Linear Regressi
 Data Description ->
 
 Hours - Hours for which the student study
+
 Scores - Scores of the students
