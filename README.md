@@ -1,4 +1,4 @@
-# the-spark-foundation
+# Simple Linear Regression
 Student Score prediction using simple linear regression
 
 Task-1
